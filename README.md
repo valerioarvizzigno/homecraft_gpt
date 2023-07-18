@@ -1,2 +1,2 @@
-# homecraft_vertex
-Retail Search Demo with ESRE and Google's GenAI
+# homecraft_gpt
+Retail Search Demo with ESRE and OpenAI
